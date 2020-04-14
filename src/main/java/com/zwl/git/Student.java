@@ -10,5 +10,7 @@ public class Student {
 
     private String snameMaster;
 
+    private String snameBranches;
+
     private String sage;
 }
