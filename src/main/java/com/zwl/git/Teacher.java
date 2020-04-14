@@ -9,4 +9,6 @@ public class Teacher {
     private String tid;
 
     private String tname;
+
+    private String tage;
 }
