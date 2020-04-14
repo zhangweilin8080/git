@@ -7,4 +7,6 @@ package com.zwl.git;
  */
 public class Teacher {
     private String tid;
+
+    private String tname;
 }

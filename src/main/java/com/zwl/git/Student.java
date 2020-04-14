@@ -7,4 +7,6 @@ package com.zwl.git;
  */
 public class Student {
     private String sid;
+
+    private String sname;
 }
