@@ -6,4 +6,5 @@ package com.zwl.git;
  * @describe
  */
 public class Teacher {
+    private String tid;
 }

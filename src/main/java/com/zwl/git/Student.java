@@ -6,4 +6,5 @@ package com.zwl.git;
  * @describe
  */
 public class Student {
+    private String sid;
 }
